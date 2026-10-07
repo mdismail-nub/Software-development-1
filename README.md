@@ -1,1 +1,3 @@
-# Software-development-1
+# Mess Manager
+
+A desktop Mess Management System built with C++ and Qt.
